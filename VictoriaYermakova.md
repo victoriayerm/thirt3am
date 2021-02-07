@@ -1,12 +1,8 @@
-**Name:** Victoria
+![image](https://imgur.com/5oxaQWJ)
 
-**I am from:** Ukraine
-
-**Age:** 34
-
-**Github:** [victoriayerm](https://github.com/victoriayerm)
-
-**Education:** economics
-
+**Name:** Victoria  
+**I am from:** Ukraine  
+**Age:** 34  
+**GitHub:** [victoriayerm](https://github.com/victoriayerm)  
+**Education:** Economics  
 **Hobby:** challenge myself)
-
